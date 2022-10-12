@@ -1,24 +1,14 @@
-.heading 
+body
 {
-font-size: 25px;
-width : 100%;
-box-shadow : 5px 5px 5px grey;
-margin : 0px;
+	text-align: center;
 }
-
-.note
+span
 {
-    color : black;
-    font-size: 17px;
+	font-size: 18px;
+	color: red;
 }
-.copy_right_footer 
+canvas
 {
-    position : fixed;
-    bottom : 0;
-    width : 100%;
-    line-height: 4;
-    text-align: center;
-    color:black;
-    background-color: darkgray;
-    
+	background: pink;
+	border-radius: 20px;
 }
